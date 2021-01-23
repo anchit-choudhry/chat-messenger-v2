@@ -1,5 +1,9 @@
 # Chat Messenger #2
 
+![Node.js CI](https://github.com/anchit-choudhry/chat-messenger-v2/workflows/Node.js%20CI/badge.svg)
+![Node.js Package](https://github.com/anchit-choudhry/chat-messenger-v2/workflows/Node.js%20Package/badge.svg)
+![CodeQL](https://github.com/anchit-choudhry/chat-messenger-v2/workflows/CodeQL/badge.svg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
